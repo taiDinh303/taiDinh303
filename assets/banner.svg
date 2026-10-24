@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+ <title id="title">Dinh Van Tai — .NET Backend Developer</title>
+ <desc id="desc">Dark navy banner with cyan accents, seeking internship and fresher opportunities.</desc>
+ <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#152d46"/></linearGradient></defs>
+ <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+ <g fill="none" stroke="#365674" opacity=".45"><path d="M850 0v300M950 0v300M1050 0v300M1150 0v300M800 60h400M800 160h400M800 260h400"/><circle cx="1030" cy="150" r="107"/><circle cx="1030" cy="150" r="78"/></g>
+ <rect x="54" y="49" width="5" height="200" rx="2" fill="#67e8f9"/>
+ <text x="82" y="84" fill="#67e8f9" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="4">HELLO, I'M</text>
+ <text x="78" y="151" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="57" font-weight="700">Dinh Van Tai</text>
+ <text x="82" y="197" fill="#b9cce0" font-family="Segoe UI,Arial,sans-serif" font-size="24">.NET Backend Developer</text>
+ <text x="82" y="239" fill="#8aa6c1" font-family="Segoe UI,Arial,sans-serif" font-size="16">HO CHI MINH CITY  /  OPEN TO INTERN &amp; FRESHER ROLES</text>
+ <text x="944" y="169" fill="#67e8f9" font-family="Consolas,monospace" font-size="54">{ C# }</text>
+</svg>
