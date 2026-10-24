@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:dinhvantai079@gmail.com">Email</a> ·
-  <a href="https://github.com/taiDinh303?tab=repositories">Repositories</a>
+  Contact: dinhvantai079@gmail.com
 </p>
 
 ### 👋 About me
