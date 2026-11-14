@@ -78,8 +78,6 @@ A full-stack classroom application for teachers and students, with class-scoped 
 - Attendance corrections with reasons, approval locking and before/after audit history.
 - Class schedules, assignments, draft/published grades and permission-scoped Excel exports.
 
-**[Live demo](https://attendanceweb-psi.vercel.app)** · **Status:** recruiter demo available with simulated data. File uploads are disabled for public demo accounts; real Google consent verification remains pending.
-
 ---
 
 <p align="center">Interested in backend development, practical business problems and learning through building.</p>
