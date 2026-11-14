@@ -18,13 +18,13 @@ I'm **Đinh Văn Tài**, an Information Technology graduate based in Ho Chi Minh
 - Seeking a **.NET Backend Internship / Fresher Developer** opportunity.
 - Working with **C#, ASP.NET Core, Entity Framework Core and REST APIs**.
 - Building React interfaces and exploring reliable autosave, offline synchronization and role-based access.
-- Currently improving three projects: **NoteTatCa**, **M-ChamCong** and **BadmintonBooking**.
+- Currently improving four projects: **NoteTatCa**, **M-ChamCong**, **BadmintonBooking** and **WebAttendance**.
 
 ### 🧰 Technologies used in my projects
 
 | Area | Technologies |
 | :--- | :--- |
-| Backend | C#, ASP.NET Core 8, Entity Framework Core, ASP.NET Identity, JWT |
+| Backend | C#, ASP.NET Core 8, Entity Framework Core, ASP.NET Identity, JWT, PHP, Laravel |
 | Frontend | React, TypeScript, JavaScript, Vite, HTML, CSS |
 | Databases | SQL Server, PostgreSQL, MySQL |
 | Development & testing | Git, GitHub, Postman, Swagger/OpenAPI, Playwright, Vitest |
@@ -67,6 +67,18 @@ A court booking project currently being rebuilt and refined.
 - Automated frontend and focused HTTP test coverage documented in the repository.
 
 **Status:** work in progress. Payment-provider certification and complete production validation remain ongoing.
+
+#### [WebAttendance](https://github.com/taiDinh303/WebAttendance) · Classroom management & QR attendance
+
+**React · TypeScript · Laravel · MySQL**
+
+A full-stack classroom application for teachers and students, with class-scoped permissions and auditable attendance workflows.
+
+- Rotating, server-signed QR attendance with membership checks and duplicate prevention.
+- Attendance corrections with reasons, approval locking and before/after audit history.
+- Class schedules, assignments, draft/published grades and permission-scoped Excel exports.
+
+**[Live demo](https://attendanceweb-psi.vercel.app)** · **Status:** recruiter demo available with simulated data. File uploads are disabled for public demo accounts; real Google consent verification remains pending.
 
 ---
 
